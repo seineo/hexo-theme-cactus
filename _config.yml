@@ -29,18 +29,14 @@ nav:
 social_links:
   -
     icon: github
-    link: http://github.com/probberechts/cactus-dark
+    link: https://github.com/seineo
   -
     icon: mail
-    link: mailto:name@email.com
+    link: 1013248644@qq.com
   -
-    icon: mastodon
-    label: mastodon.social
-    link: https://mastodon.social/@alice
-  -
-    icon: mastodon
-    label: fosstodon.org
-    link: https://fosstodon.org/@alice
+    icon: strava
+    label: strava, for cycling
+    link: https://www.strava.com/athletes/118366416
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
